@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">stationsdistance</string>
+    <string name="love_koleo">LOVE KOLEO</string>
+    <string name="from">From</string>
+    <string name="destination">Destination</string>
+    <string name="show">Show</string>
+    <string name="not_found_error">Select the correct place from the list.</string>
+    <string name="menu_error">Something is wrong with menu :(</string>
+</resources>
