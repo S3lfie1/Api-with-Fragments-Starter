@@ -1,4 +1,4 @@
-# Koleo-Love
+# Api-with-Fragments-Starter
 Simple API Starter
 
 It is a simple starter that retrieves data from the API using a retrofit library. The application is also prepared to use fragments.
